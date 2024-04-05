@@ -27,3 +27,6 @@ assignees:
   - PierrickI3
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
