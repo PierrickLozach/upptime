@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   apiBaseUrl: https://api.github.com
-  baseUrl: /SPC
+  baseUrl: /upptime
   logoUrl: https://www.genesys.com/media/genesys-logo-base.svg
   name: Genesys SPC Team
   introTitle: "**SPC** platforms availability"
