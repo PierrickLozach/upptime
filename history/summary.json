@@ -22,17 +22,19 @@
     "url": "https://spc.genesys.com",
     "icon": "https://icons.duckduckgo.com/ip3/spc.genesys.com.ico",
     "slug": "spc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 579,
-    "timeWeek": 635,
-    "timeMonth": 575,
-    "timeYear": 552,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 470,
+    "timeWeek": 601,
+    "timeMonth": 568,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   }
 ]
