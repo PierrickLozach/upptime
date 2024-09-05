@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 274,
-    "timeWeek": 334,
-    "timeMonth": 309,
-    "timeYear": 288,
+    "time": 286,
+    "timeDay": 115,
+    "timeWeek": 273,
+    "timeMonth": 302,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "spc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 366,
-    "timeWeek": 551,
-    "timeMonth": 555,
+    "timeDay": 348,
+    "timeWeek": 533,
+    "timeMonth": 550,
     "timeYear": 548,
-    "dailyMinutesDown": {
-      "2024-09-04": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
